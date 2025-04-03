@@ -1,3 +1,6 @@
+> ⚠️ Dieses Repository befindet sich derzeit im "Work in Progress"-Status und wird aktuell **nicht aktiv gepflegt**.  
+> Es kann jederzeit Änderungen geben, aber es ist aktuell **nicht produktiv einsetzbar**.
+
 # 🧪 DevPod Homelab
 
 Minimalistisches DevPod-Setup für CLI-basierte Homelab-Arbeit.
